@@ -24,9 +24,6 @@ This book covers the following exciting features:
 * Understand how to apply advanced techniques to real-world data
 * Discover how to use key deep learning methods such as LSTMs and transformers
 
-If you feel this book is for you, get your [copy](https://www.amazon.in/Machine-Learning-Biotechnology-Life-Sciences/dp/1801811911/ref=sr_1_3?crid=33LE78SNJV69U&keywords=Machine+Learning+in+Biotechnology+and+Life+Sciences&qid=1641364447&sprefix=machine+learning+in+biotechnology+and+life+sciences%2Caps%2C331&sr=8-3) today!
-
-<a href="https://www.packtpub.com/product/machine-learning-in-biotechnology-and-life-sciences/9781801811910"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
@@ -57,13 +54,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801811910_ColorImages.pdf).
 
-### Related products <Other books you may enjoy>
-* Bioinformatics with Python Cookbook - Second Edition  [[Packt]](https://www.packtpub.com/product/bioinformatics-with-python-cookbook-second-edition/9781789344691) [[Amazon]](https://www.amazon.in/Bioinformatics-Python-Cookbook-bioinformatics-computational/dp/1789344697/ref=sr_1_3?crid=284LAJ1TB235Q&keywords=Bioinformatics+with+Python+Cookbook+-+Second+Edition&qid=1641364937&sprefix=bioinformatics+with+python+cookbook+-+second+edition%2Caps%2C455&sr=8-3)
-  
-* Learn Amazon SageMaker - Second Edition  [[Packt]](https://www.packtpub.com/product/learn-amazon-sagemaker-second-edition/9781801817950) [[Amazon]](https://www.amazon.in/Learn-Amazon-SageMaker-developers-scientists-ebook/dp/B09CQ6MSRY/ref=sr_1_1?crid=Y75P88TWF0R1&keywords=Learn+Amazon+SageMaker&qid=1641365112&sprefix=learn+amazon+sagemaker%2Caps%2C234&sr=8-1)
-  
-## Get to Know the Author
-**Saleh Alkhalifa** is a data scientist and manager in the biotechnology industry with 4 years of industry experience working and living in the Boston area. With a strong academic background in the applications of machine learning for discovery, prediction, forecasting, and analysis, he has spent the last 3 years developing models that touch all facets of business and scientific functions.
+
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
